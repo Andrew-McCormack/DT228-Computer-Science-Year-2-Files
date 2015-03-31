@@ -1,0 +1,1 @@
+In order for the website to correctly display information, the tables from book.sql in the 'Database MYSQL Required For Site To Work Correctly' folder must be installed on a local server/ host machine. 
